@@ -24,3 +24,29 @@ media/
 
 # User-uploaded media files
 media/
+
+.env
+backend/staticfiles/
+backend/media/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+db.sqlite3
+
+# Django
+backend/media/
+backend/staticfiles/
+
+# React
+node_modules/
+dist/
+frontend_old/
+
+# Editor
+.vscode/
+.idea/
