@@ -1,12 +1,12 @@
 # Real Estate Marketplace
 
-A full-stack real estate website built with Django REST Framework and React. Users can list properties for sale or rent, browse other listings, and contact property owners through private messages.
+A full-stack real estate website built with Django REST Framework. Users can list properties for sale or rent, browse other listings, and contact property owners through private messages.
 
-I built this project to get hands-on experience with backend development, REST APIs, authentication, and connecting a Django backend to a React frontend.
+I built this project to get hands-on experience with backend development, REST APIs, authentication, and Django backend.
 
 ## Features
 
-- User registration, login, and profile updates using JWT authentication
+- User registration, loin, and gprofile updates using JWT authentication
 - Create, edit, and archive property listings
 - Upload and remove multiple property images
 - Search, filter, and sort properties
