@@ -106,16 +106,6 @@ Open `http://127.0.0.1:5173/` in your browser.
 
 Most endpoints require a JWT access token. Messages can also be fetched using `?after_id=<message_id>` to retrieve only newer messages.
 
-## Testing
-
-Run the backend tests from the `backend` folder:
-
-```powershell
-python manage.py test
-```
-
-The project had 53 passing backend tests at the end of development.
-
 ## Project Status
 
 The application works locally. Deployment is not included at this stage.
