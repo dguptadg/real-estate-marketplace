@@ -24,20 +24,23 @@ Property listings and images are available only to logged-in users.
 
 **Database:** SQLite for local development, with PostgreSQL configuration available
 
-## Project Structure
+## Project Images
 
-```text
-real-estate-marketplace/
-├── backend/
-│   ├── accounts/
-│   ├── properties/
-│   ├── messaging/
-│   ├── config/
-│   └── manage.py
-├── frontend/
-├── requirements.txt
-└── README.md
-```
+**Login Page:**
+![Alt text](https://github.com/dguptadg/real-estate-marketplace/blob/main/website_images/login_page.png)
+<br><br>
+**Browsing Page:**
+![Alt text](https://github.com/dguptadg/real-estate-marketplace/blob/main/website_images/property_browsing.png)
+<br><br>
+**User's Listing Page:**
+![Alt text](https://github.com/dguptadg/real-estate-marketplace/blob/main/website_images/my_listings.png)
+<br><br>
+**Conversation Page:**
+![Alt text](https://github.com/dguptadg/real-estate-marketplace/blob/main/website_images/conversation.png)
+<br><br>
+**Add Property Page:**
+![Alt text](https://github.com/dguptadg/real-estate-marketplace/blob/main/website_images/create_property.png)
+
 
 ## Running Locally
 
