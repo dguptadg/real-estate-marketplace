@@ -44,11 +44,11 @@ Property listings and images are available only to logged-in users.
 
 ## Running Locally
 
-You will need Python 3.11 and Node.js installed.
+Will need Python 3.11 and Node.js installed.
 
 ### 1. Backend
 
-From the project folder, activate your Python virtual environment. If you haven't created one yet:
+From the project folder, activate Python virtual environment. If haven't created one yet:
 
 ```powershell
 python -m venv .venv
@@ -69,8 +69,6 @@ Generate a secret key using:
 ```powershell
 python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
 ```
-
-Replace `your-generated-secret-key` with the generated value. Do not commit your `.env` file.
 
 Start Django:
 
