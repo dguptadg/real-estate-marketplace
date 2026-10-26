@@ -22,7 +22,7 @@ Property listings and images are available only to logged-in users.
 
 **Frontend:** React, Vite, Tailwind CSS
 
-**Database:** SQLite for local development, with PostgreSQL configuration available
+**Database:** SQLite for local development
 
 ## Project Images
 
